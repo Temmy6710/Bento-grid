@@ -1,1 +1,27 @@
- @import "tailwindcss";
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+.purpletext100{
+   color: hsl(254, 88%, 90%);
+} 
+.purplebg100{
+   background-color: hsl(254, 88%, 90%);
+} 
+.purpletext500{
+   color: hsl(256, 67%, 59%);
+} 
+.purplebg500{
+   color: hsl(256, 67%, 59%);
+} 
+
+.yellowbg100{
+   color: hsl(31, 66%, 93%);
+} 
+.yellowbg500{
+   color: hsl(39, 100%, 71%);
+} 
+.blacktext{
+    color: hsl(0, 0%, 7%);
+}
