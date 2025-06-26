@@ -13,13 +13,16 @@
    color: hsl(256, 67%, 59%);
 } 
 .purplebg500{
-   color: hsl(256, 67%, 59%);
+   background-color: hsl(256, 67%, 59%);
 } 
 
 .yellowbg100{
-   color: hsl(31, 66%, 93%);
+   background-color: hsl(31, 66%, 93%);
 } 
 .yellowbg500{
+   background-color: hsl(39, 100%, 71%);
+} 
+.yellowtext500{
    color: hsl(39, 100%, 71%);
 } 
 .blacktext{
